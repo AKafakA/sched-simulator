@@ -51,7 +51,7 @@ class Agent(object):
 
                   tau=(s_0, a_0, ...) is a trajectory,
                   Q_t is the Q-value at time core, Q^{pi}(s_t, a_t),
-                  and b_t is a baseline which may depend on s_t.
+                  and b_t is a Baseline which may depend on s_t.
 
             You will write code for two cases, controlled by the flag 'reward_to_go':
 
@@ -106,7 +106,7 @@ class Agent(object):
 
     def _compute_advantage(self, q_n):
         """
-            Computes advantages by (possibly) subtracting a baseline from the estimated Q values
+            Computes advantages by (possibly) subtracting a Baseline from the estimated Q values
 
             arguments:
                 q_n: shape: (...).

@@ -48,6 +48,14 @@ class Task(object):
         return ls
 
     @property
+    def waiting_task_instances(self):
+        ls = []
+        for task_instance in self.task_instances:
+            if not task_instance.started:
+                ls.append(task_instance)
+        return ls
+
+    @property
     def finished_task_instances(self):
         ls = []
         for task_instance in self.task_instances:
@@ -162,6 +170,13 @@ class Job(object):
         for task in self.tasks:
             if task.started and not task.finished:
                 ls.append(task)
+        return ls
+
+    @property
+    def waiting_task_instances(self):
+        ls = []
+        for task in self.tasks:
+            ls.extend(task.waiting_task_instances)
         return ls
 
     @property

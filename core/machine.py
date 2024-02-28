@@ -83,7 +83,7 @@ class Machine(object):
         return [self.cpu_capacity, self.memory_capacity, self.disk_capacity]
 
     @property
-    def state(self):
+    def cluster_state(self):
         return {
             'id': self.id,
             'cpu_capacity': self.cpu_capacity,

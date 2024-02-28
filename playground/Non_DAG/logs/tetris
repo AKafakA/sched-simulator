@@ -1,0 +1,2130 @@
+[
+    {
+        "timestamp": 0,
+        "cluster_state": {
+            "arrived_jobs": 0,
+            "unfinished_jobs": 0,
+            "finished_jobs": 0,
+            "unfinished_tasks": 0,
+            "finished_tasks": 0,
+            "running_task_instances": 0,
+            "cpu_usage": 0.0,
+            "memory_usage": 0.0,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 10,
+        "cluster_state": {
+            "arrived_jobs": 1,
+            "unfinished_jobs": 1,
+            "finished_jobs": 0,
+            "unfinished_tasks": 11,
+            "finished_tasks": 0,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.000291304962477555,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 20,
+        "cluster_state": {
+            "arrived_jobs": 1,
+            "unfinished_jobs": 1,
+            "finished_jobs": 0,
+            "unfinished_tasks": 11,
+            "finished_tasks": 0,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.000291304962477555,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 30,
+        "cluster_state": {
+            "arrived_jobs": 1,
+            "unfinished_jobs": 1,
+            "finished_jobs": 0,
+            "unfinished_tasks": 10,
+            "finished_tasks": 1,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00028617981040560364,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 40,
+        "cluster_state": {
+            "arrived_jobs": 1,
+            "unfinished_jobs": 1,
+            "finished_jobs": 0,
+            "unfinished_tasks": 7,
+            "finished_tasks": 4,
+            "running_task_instances": 305,
+            "cpu_usage": 0.9131736526946108,
+            "memory_usage": 0.0002216355487236377,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 50,
+        "cluster_state": {
+            "arrived_jobs": 1,
+            "unfinished_jobs": 1,
+            "finished_jobs": 0,
+            "unfinished_tasks": 7,
+            "finished_tasks": 4,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00024170687076996097,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 60,
+        "cluster_state": {
+            "arrived_jobs": 2,
+            "unfinished_jobs": 2,
+            "finished_jobs": 0,
+            "unfinished_tasks": 15,
+            "finished_tasks": 4,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00024170687076996097,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 70,
+        "cluster_state": {
+            "arrived_jobs": 2,
+            "unfinished_jobs": 2,
+            "finished_jobs": 0,
+            "unfinished_tasks": 15,
+            "finished_tasks": 4,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00024170687076996097,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 80,
+        "cluster_state": {
+            "arrived_jobs": 3,
+            "unfinished_jobs": 3,
+            "finished_jobs": 0,
+            "unfinished_tasks": 33,
+            "finished_tasks": 4,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00024170687076996097,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 90,
+        "cluster_state": {
+            "arrived_jobs": 3,
+            "unfinished_jobs": 3,
+            "finished_jobs": 0,
+            "unfinished_tasks": 33,
+            "finished_tasks": 4,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00024170687076996097,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 100,
+        "cluster_state": {
+            "arrived_jobs": 4,
+            "unfinished_jobs": 4,
+            "finished_jobs": 0,
+            "unfinished_tasks": 44,
+            "finished_tasks": 5,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00030120363419798823,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 110,
+        "cluster_state": {
+            "arrived_jobs": 4,
+            "unfinished_jobs": 4,
+            "finished_jobs": 0,
+            "unfinished_tasks": 44,
+            "finished_tasks": 5,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00030120363419798823,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 120,
+        "cluster_state": {
+            "arrived_jobs": 4,
+            "unfinished_jobs": 4,
+            "finished_jobs": 0,
+            "unfinished_tasks": 44,
+            "finished_tasks": 5,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00030742470068365106,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 130,
+        "cluster_state": {
+            "arrived_jobs": 5,
+            "unfinished_jobs": 5,
+            "finished_jobs": 0,
+            "unfinished_tasks": 43,
+            "finished_tasks": 9,
+            "running_task_instances": 311,
+            "cpu_usage": 0.9311377245508982,
+            "memory_usage": 0.0002780850966383486,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 140,
+        "cluster_state": {
+            "arrived_jobs": 5,
+            "unfinished_jobs": 5,
+            "finished_jobs": 0,
+            "unfinished_tasks": 42,
+            "finished_tasks": 10,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0003127537438094105,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 150,
+        "cluster_state": {
+            "arrived_jobs": 5,
+            "unfinished_jobs": 5,
+            "finished_jobs": 0,
+            "unfinished_tasks": 42,
+            "finished_tasks": 10,
+            "running_task_instances": 289,
+            "cpu_usage": 0.8967065868263473,
+            "memory_usage": 0.00030079824143929446,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 160,
+        "cluster_state": {
+            "arrived_jobs": 6,
+            "unfinished_jobs": 6,
+            "finished_jobs": 0,
+            "unfinished_tasks": 47,
+            "finished_tasks": 11,
+            "running_task_instances": 317,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.00032508039161397253,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 170,
+        "cluster_state": {
+            "arrived_jobs": 6,
+            "unfinished_jobs": 6,
+            "finished_jobs": 0,
+            "unfinished_tasks": 46,
+            "finished_tasks": 12,
+            "running_task_instances": 293,
+            "cpu_usage": 0.9610778443113772,
+            "memory_usage": 0.00028676161671235324,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 180,
+        "cluster_state": {
+            "arrived_jobs": 7,
+            "unfinished_jobs": 7,
+            "finished_jobs": 0,
+            "unfinished_tasks": 46,
+            "finished_tasks": 15,
+            "running_task_instances": 306,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00029155464937251124,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 190,
+        "cluster_state": {
+            "arrived_jobs": 7,
+            "unfinished_jobs": 7,
+            "finished_jobs": 0,
+            "unfinished_tasks": 43,
+            "finished_tasks": 18,
+            "running_task_instances": 306,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0002691266334670497,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 200,
+        "cluster_state": {
+            "arrived_jobs": 7,
+            "unfinished_jobs": 7,
+            "finished_jobs": 0,
+            "unfinished_tasks": 43,
+            "finished_tasks": 18,
+            "running_task_instances": 303,
+            "cpu_usage": 0.9910179640718563,
+            "memory_usage": 0.0002666560473399631,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 210,
+        "cluster_state": {
+            "arrived_jobs": 7,
+            "unfinished_jobs": 7,
+            "finished_jobs": 0,
+            "unfinished_tasks": 43,
+            "finished_tasks": 18,
+            "running_task_instances": 316,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.00027736192055719867,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 220,
+        "cluster_state": {
+            "arrived_jobs": 7,
+            "unfinished_jobs": 7,
+            "finished_jobs": 0,
+            "unfinished_tasks": 40,
+            "finished_tasks": 21,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0002885153983531312,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 230,
+        "cluster_state": {
+            "arrived_jobs": 7,
+            "unfinished_jobs": 7,
+            "finished_jobs": 0,
+            "unfinished_tasks": 40,
+            "finished_tasks": 21,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0002885153983531312,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 240,
+        "cluster_state": {
+            "arrived_jobs": 7,
+            "unfinished_jobs": 7,
+            "finished_jobs": 0,
+            "unfinished_tasks": 40,
+            "finished_tasks": 21,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0002885153983531312,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 250,
+        "cluster_state": {
+            "arrived_jobs": 8,
+            "unfinished_jobs": 8,
+            "finished_jobs": 0,
+            "unfinished_tasks": 51,
+            "finished_tasks": 21,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0002885153983531312,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 260,
+        "cluster_state": {
+            "arrived_jobs": 13,
+            "unfinished_jobs": 13,
+            "finished_jobs": 0,
+            "unfinished_tasks": 100,
+            "finished_tasks": 22,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0002882700919292872,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 270,
+        "cluster_state": {
+            "arrived_jobs": 14,
+            "unfinished_jobs": 14,
+            "finished_jobs": 0,
+            "unfinished_tasks": 102,
+            "finished_tasks": 23,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00028867787403662355,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 280,
+        "cluster_state": {
+            "arrived_jobs": 15,
+            "unfinished_jobs": 15,
+            "finished_jobs": 0,
+            "unfinished_tasks": 102,
+            "finished_tasks": 25,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0003268469164456921,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 290,
+        "cluster_state": {
+            "arrived_jobs": 17,
+            "unfinished_jobs": 17,
+            "finished_jobs": 0,
+            "unfinished_tasks": 119,
+            "finished_tasks": 25,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0003268469164456921,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 300,
+        "cluster_state": {
+            "arrived_jobs": 17,
+            "unfinished_jobs": 17,
+            "finished_jobs": 0,
+            "unfinished_tasks": 119,
+            "finished_tasks": 25,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.0003268469164456921,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 310,
+        "cluster_state": {
+            "arrived_jobs": 17,
+            "unfinished_jobs": 17,
+            "finished_jobs": 0,
+            "unfinished_tasks": 119,
+            "finished_tasks": 25,
+            "running_task_instances": 316,
+            "cpu_usage": 0.9461077844311377,
+            "memory_usage": 0.00031487787443536665,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 320,
+        "cluster_state": {
+            "arrived_jobs": 19,
+            "unfinished_jobs": 19,
+            "finished_jobs": 0,
+            "unfinished_tasks": 135,
+            "finished_tasks": 25,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00035294497131774103,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 330,
+        "cluster_state": {
+            "arrived_jobs": 19,
+            "unfinished_jobs": 19,
+            "finished_jobs": 0,
+            "unfinished_tasks": 134,
+            "finished_tasks": 26,
+            "running_task_instances": 334,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00035416831763989017,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 340,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 145,
+            "finished_tasks": 26,
+            "running_task_instances": 332,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.0003517056960071596,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 350,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 145,
+            "finished_tasks": 26,
+            "running_task_instances": 278,
+            "cpu_usage": 0.8323353293413174,
+            "memory_usage": 0.0002897005151034346,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 360,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 144,
+            "finished_tasks": 27,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.0003767683666218755,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 370,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 144,
+            "finished_tasks": 27,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.0003767683666218755,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 380,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 144,
+            "finished_tasks": 27,
+            "running_task_instances": 301,
+            "cpu_usage": 0.9356287425149701,
+            "memory_usage": 0.00033652218410329973,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 390,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 142,
+            "finished_tasks": 29,
+            "running_task_instances": 295,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.0002761867594259596,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 400,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 142,
+            "finished_tasks": 29,
+            "running_task_instances": 295,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.0002761298132918455,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 410,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 140,
+            "finished_tasks": 31,
+            "running_task_instances": 269,
+            "cpu_usage": 0.9206586826347305,
+            "memory_usage": 0.00025284163200418473,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 420,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 138,
+            "finished_tasks": 33,
+            "running_task_instances": 317,
+            "cpu_usage": 0.9970059880239521,
+            "memory_usage": 0.0002564682644764476,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 430,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 137,
+            "finished_tasks": 34,
+            "running_task_instances": 317,
+            "cpu_usage": 0.9970059880239521,
+            "memory_usage": 0.0002564646804540434,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 440,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 135,
+            "finished_tasks": 36,
+            "running_task_instances": 315,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.00023826421811505637,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 450,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 134,
+            "finished_tasks": 37,
+            "running_task_instances": 309,
+            "cpu_usage": 0.9595808383233533,
+            "memory_usage": 0.00023609946856861195,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 460,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 134,
+            "finished_tasks": 37,
+            "running_task_instances": 304,
+            "cpu_usage": 0.9446107784431138,
+            "memory_usage": 0.0002323720852435564,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 470,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 134,
+            "finished_tasks": 37,
+            "running_task_instances": 322,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00024565526881115845,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 480,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 134,
+            "finished_tasks": 37,
+            "running_task_instances": 322,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00024565526881115845,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 490,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 134,
+            "finished_tasks": 37,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9970059880239521,
+            "memory_usage": 0.0002544098409286492,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 500,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 134,
+            "finished_tasks": 37,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9970059880239521,
+            "memory_usage": 0.0002544098409286492,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 510,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 134,
+            "finished_tasks": 37,
+            "running_task_instances": 316,
+            "cpu_usage": 0.9910179640718563,
+            "memory_usage": 0.00023469652290063656,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 520,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 125,
+            "finished_tasks": 46,
+            "running_task_instances": 317,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00023433573130932927,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 530,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 125,
+            "finished_tasks": 46,
+            "running_task_instances": 303,
+            "cpu_usage": 0.9610778443113772,
+            "memory_usage": 0.00022207359590902342,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 540,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 124,
+            "finished_tasks": 47,
+            "running_task_instances": 304,
+            "cpu_usage": 0.9715568862275449,
+            "memory_usage": 0.00021447228256385223,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 550,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 123,
+            "finished_tasks": 48,
+            "running_task_instances": 302,
+            "cpu_usage": 0.9775449101796407,
+            "memory_usage": 0.00020936863462632643,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 560,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 122,
+            "finished_tasks": 49,
+            "running_task_instances": 308,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.00021118692867136047,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 570,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 122,
+            "finished_tasks": 49,
+            "running_task_instances": 308,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.00021118692867136047,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 580,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 122,
+            "finished_tasks": 49,
+            "running_task_instances": 302,
+            "cpu_usage": 0.9580838323353293,
+            "memory_usage": 0.000208572981647124,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 590,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 122,
+            "finished_tasks": 49,
+            "running_task_instances": 321,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00022240491887098938,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 600,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 122,
+            "finished_tasks": 49,
+            "running_task_instances": 305,
+            "cpu_usage": 0.9431137724550899,
+            "memory_usage": 0.00021088109209071822,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 610,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 121,
+            "finished_tasks": 50,
+            "running_task_instances": 326,
+            "cpu_usage": 0.9970059880239521,
+            "memory_usage": 0.00022474130326918384,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 620,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 118,
+            "finished_tasks": 53,
+            "running_task_instances": 313,
+            "cpu_usage": 0.9520958083832335,
+            "memory_usage": 0.0002154132875633737,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 630,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 118,
+            "finished_tasks": 53,
+            "running_task_instances": 327,
+            "cpu_usage": 0.9925149700598802,
+            "memory_usage": 0.00022419254961348017,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 640,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 116,
+            "finished_tasks": 55,
+            "running_task_instances": 329,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.00022536771074513896,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 650,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 115,
+            "finished_tasks": 56,
+            "running_task_instances": 329,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.0002236653000919222,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 660,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 115,
+            "finished_tasks": 56,
+            "running_task_instances": 331,
+            "cpu_usage": 1.0,
+            "memory_usage": 0.00022489581445873997,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 670,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 115,
+            "finished_tasks": 56,
+            "running_task_instances": 327,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.0002209713099001909,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 680,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 115,
+            "finished_tasks": 56,
+            "running_task_instances": 309,
+            "cpu_usage": 0.9535928143712575,
+            "memory_usage": 0.00020728432647229057,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 690,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 115,
+            "finished_tasks": 56,
+            "running_task_instances": 308,
+            "cpu_usage": 0.9835329341317365,
+            "memory_usage": 0.00020370388806664917,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 700,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 115,
+            "finished_tasks": 56,
+            "running_task_instances": 315,
+            "cpu_usage": 0.9970059880239521,
+            "memory_usage": 0.00020824325158383335,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 710,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 115,
+            "finished_tasks": 56,
+            "running_task_instances": 315,
+            "cpu_usage": 0.9985029940119761,
+            "memory_usage": 0.0002079051588016927,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 720,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 115,
+            "finished_tasks": 56,
+            "running_task_instances": 297,
+            "cpu_usage": 0.9655688622754491,
+            "memory_usage": 0.0001934878312478339,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 730,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 115,
+            "finished_tasks": 56,
+            "running_task_instances": 300,
+            "cpu_usage": 0.9946107784431137,
+            "memory_usage": 0.00019373592524467452,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 740,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 112,
+            "finished_tasks": 59,
+            "running_task_instances": 294,
+            "cpu_usage": 0.9913173652694611,
+            "memory_usage": 0.0001866833655557667,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 750,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 112,
+            "finished_tasks": 59,
+            "running_task_instances": 296,
+            "cpu_usage": 0.9895209580838323,
+            "memory_usage": 0.00018807635560593694,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 760,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 111,
+            "finished_tasks": 60,
+            "running_task_instances": 299,
+            "cpu_usage": 0.9823353293413174,
+            "memory_usage": 0.00019014991169289994,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 770,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 111,
+            "finished_tasks": 60,
+            "running_task_instances": 301,
+            "cpu_usage": 0.9883233532934133,
+            "memory_usage": 0.0001914337881715675,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 780,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 111,
+            "finished_tasks": 60,
+            "running_task_instances": 298,
+            "cpu_usage": 0.9682634730538923,
+            "memory_usage": 0.00018978195205692408,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 790,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 110,
+            "finished_tasks": 61,
+            "running_task_instances": 305,
+            "cpu_usage": 0.9754491017964072,
+            "memory_usage": 0.00019456383442509553,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 800,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 110,
+            "finished_tasks": 61,
+            "running_task_instances": 314,
+            "cpu_usage": 0.9964071856287425,
+            "memory_usage": 0.00020028074842286096,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 810,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 110,
+            "finished_tasks": 61,
+            "running_task_instances": 312,
+            "cpu_usage": 0.9928143712574851,
+            "memory_usage": 0.00019888059032774225,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 820,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 110,
+            "finished_tasks": 61,
+            "running_task_instances": 308,
+            "cpu_usage": 0.9796407185628744,
+            "memory_usage": 0.0001961479723388318,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 830,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 110,
+            "finished_tasks": 61,
+            "running_task_instances": 314,
+            "cpu_usage": 0.9988023952095809,
+            "memory_usage": 0.00019989128465273937,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 840,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 110,
+            "finished_tasks": 61,
+            "running_task_instances": 313,
+            "cpu_usage": 0.994610778443114,
+            "memory_usage": 0.00019908607428050556,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 850,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 110,
+            "finished_tasks": 61,
+            "running_task_instances": 313,
+            "cpu_usage": 0.980239520958084,
+            "memory_usage": 0.00019861059397184222,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 860,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 108,
+            "finished_tasks": 63,
+            "running_task_instances": 320,
+            "cpu_usage": 0.9880239520958084,
+            "memory_usage": 0.00020211417500775916,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 870,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 107,
+            "finished_tasks": 64,
+            "running_task_instances": 324,
+            "cpu_usage": 0.9964071856287425,
+            "memory_usage": 0.0002041172453208184,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 880,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 106,
+            "finished_tasks": 65,
+            "running_task_instances": 328,
+            "cpu_usage": 0.991616766467066,
+            "memory_usage": 0.00020675906807516114,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 890,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 106,
+            "finished_tasks": 65,
+            "running_task_instances": 329,
+            "cpu_usage": 0.994610778443114,
+            "memory_usage": 0.00020738667022473796,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 900,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 106,
+            "finished_tasks": 65,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9964071856287425,
+            "memory_usage": 0.00020803020136288698,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 910,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 105,
+            "finished_tasks": 66,
+            "running_task_instances": 313,
+            "cpu_usage": 0.9431137724550899,
+            "memory_usage": 0.00019737928315617653,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 920,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 104,
+            "finished_tasks": 67,
+            "running_task_instances": 328,
+            "cpu_usage": 0.9820359281437125,
+            "memory_usage": 0.00020721543359748185,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 930,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 104,
+            "finished_tasks": 67,
+            "running_task_instances": 332,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00020972584219592906,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 940,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 104,
+            "finished_tasks": 67,
+            "running_task_instances": 331,
+            "cpu_usage": 0.9910179640718563,
+            "memory_usage": 0.00020876532418515127,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 950,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 104,
+            "finished_tasks": 67,
+            "running_task_instances": 319,
+            "cpu_usage": 0.9550898203592815,
+            "memory_usage": 0.00020110188778464641,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 960,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 103,
+            "finished_tasks": 68,
+            "running_task_instances": 325,
+            "cpu_usage": 0.9790419161676647,
+            "memory_usage": 0.00020390021285185446,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 970,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 103,
+            "finished_tasks": 68,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00020677181126610287,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 980,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 102,
+            "finished_tasks": 69,
+            "running_task_instances": 329,
+            "cpu_usage": 0.9910179640718563,
+            "memory_usage": 0.0002060211576797603,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 990,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 102,
+            "finished_tasks": 69,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00020664119355989476,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1000,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 102,
+            "finished_tasks": 69,
+            "running_task_instances": 323,
+            "cpu_usage": 0.9730538922155688,
+            "memory_usage": 0.00020208152058204666,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1010,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 102,
+            "finished_tasks": 69,
+            "running_task_instances": 325,
+            "cpu_usage": 0.9790419161676647,
+            "memory_usage": 0.0002032005320287191,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1020,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 102,
+            "finished_tasks": 69,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.0002059805387585724,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1030,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 101,
+            "finished_tasks": 70,
+            "running_task_instances": 332,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00020758339323331782,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1040,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 101,
+            "finished_tasks": 70,
+            "running_task_instances": 332,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00020756826069429315,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1050,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 101,
+            "finished_tasks": 70,
+            "running_task_instances": 332,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00020752604887456982,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1060,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 100,
+            "finished_tasks": 71,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00020509289587076078,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1070,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 100,
+            "finished_tasks": 71,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.0002050562591970307,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1080,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 100,
+            "finished_tasks": 71,
+            "running_task_instances": 324,
+            "cpu_usage": 0.9760479041916168,
+            "memory_usage": 0.00020084463461940826,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1090,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 20,
+            "finished_jobs": 0,
+            "unfinished_tasks": 100,
+            "finished_tasks": 71,
+            "running_task_instances": 313,
+            "cpu_usage": 0.9431137724550899,
+            "memory_usage": 0.00019366265189819386,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1100,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 18,
+            "finished_jobs": 2,
+            "unfinished_tasks": 98,
+            "finished_tasks": 73,
+            "running_task_instances": 329,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.0002018987354377504,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1110,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 18,
+            "finished_jobs": 2,
+            "unfinished_tasks": 98,
+            "finished_tasks": 73,
+            "running_task_instances": 329,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.0002018987354377504,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1120,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 18,
+            "finished_jobs": 2,
+            "unfinished_tasks": 98,
+            "finished_tasks": 73,
+            "running_task_instances": 329,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.0002018987354377504,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1130,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 18,
+            "finished_jobs": 2,
+            "unfinished_tasks": 98,
+            "finished_tasks": 73,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9910179640718563,
+            "memory_usage": 0.00020277921028089344,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1140,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 18,
+            "finished_jobs": 2,
+            "unfinished_tasks": 98,
+            "finished_tasks": 73,
+            "running_task_instances": 314,
+            "cpu_usage": 0.9431137724550899,
+            "memory_usage": 0.00019266828478668266,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1150,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 17,
+            "finished_jobs": 3,
+            "unfinished_tasks": 91,
+            "finished_tasks": 80,
+            "running_task_instances": 298,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00017352482632444522,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1160,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 17,
+            "finished_jobs": 3,
+            "unfinished_tasks": 90,
+            "finished_tasks": 81,
+            "running_task_instances": 298,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00017352482632444522,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1170,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 17,
+            "finished_jobs": 3,
+            "unfinished_tasks": 90,
+            "finished_tasks": 81,
+            "running_task_instances": 296,
+            "cpu_usage": 0.9880239520958084,
+            "memory_usage": 0.0001726933331212002,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1180,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 17,
+            "finished_jobs": 3,
+            "unfinished_tasks": 90,
+            "finished_tasks": 81,
+            "running_task_instances": 298,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 0.00017352482632444522,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1190,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 17,
+            "finished_jobs": 3,
+            "unfinished_tasks": 90,
+            "finished_tasks": 81,
+            "running_task_instances": 284,
+            "cpu_usage": 0.9760479041916168,
+            "memory_usage": 0.0001625103289535708,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1200,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 16,
+            "finished_jobs": 4,
+            "unfinished_tasks": 84,
+            "finished_tasks": 87,
+            "running_task_instances": 235,
+            "cpu_usage": 0.9910179640718563,
+            "memory_usage": 0.00011920578063011187,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1210,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 16,
+            "finished_jobs": 4,
+            "unfinished_tasks": 84,
+            "finished_tasks": 87,
+            "running_task_instances": 226,
+            "cpu_usage": 0.9580838323353293,
+            "memory_usage": 0.00011343231872328593,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1220,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 16,
+            "finished_jobs": 4,
+            "unfinished_tasks": 81,
+            "finished_tasks": 90,
+            "running_task_instances": 220,
+            "cpu_usage": 0.9910179640718563,
+            "memory_usage": 0.00010525676534010787,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1230,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 14,
+            "finished_jobs": 6,
+            "unfinished_tasks": 79,
+            "finished_tasks": 92,
+            "running_task_instances": 197,
+            "cpu_usage": 0.9341317365269461,
+            "memory_usage": 8.95898086330887e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1240,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 14,
+            "finished_jobs": 6,
+            "unfinished_tasks": 78,
+            "finished_tasks": 93,
+            "running_task_instances": 205,
+            "cpu_usage": 0.9880239520958084,
+            "memory_usage": 9.291578144620871e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1250,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 14,
+            "finished_jobs": 6,
+            "unfinished_tasks": 77,
+            "finished_tasks": 94,
+            "running_task_instances": 204,
+            "cpu_usage": 0.9790419161676647,
+            "memory_usage": 9.250003484465616e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1260,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 14,
+            "finished_jobs": 6,
+            "unfinished_tasks": 77,
+            "finished_tasks": 94,
+            "running_task_instances": 203,
+            "cpu_usage": 0.9760479041916168,
+            "memory_usage": 9.208428824296369e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1270,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 76,
+            "finished_tasks": 95,
+            "running_task_instances": 207,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 9.374727464959366e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1280,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 76,
+            "finished_tasks": 95,
+            "running_task_instances": 198,
+            "cpu_usage": 0.9461077844311377,
+            "memory_usage": 9.00055552349211e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1290,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 76,
+            "finished_tasks": 95,
+            "running_task_instances": 204,
+            "cpu_usage": 0.9790419161676647,
+            "memory_usage": 9.250003484465616e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1300,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 75,
+            "finished_tasks": 96,
+            "running_task_instances": 195,
+            "cpu_usage": 0.9251497005988024,
+            "memory_usage": 8.87583154299836e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1310,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 74,
+            "finished_tasks": 97,
+            "running_task_instances": 203,
+            "cpu_usage": 0.9820359281437125,
+            "memory_usage": 9.208428824296369e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1320,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 73,
+            "finished_tasks": 98,
+            "running_task_instances": 204,
+            "cpu_usage": 0.9850299401197605,
+            "memory_usage": 9.190867114389571e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1330,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 73,
+            "finished_tasks": 98,
+            "running_task_instances": 202,
+            "cpu_usage": 0.9820359281437125,
+            "memory_usage": 9.107717794065068e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1340,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 73,
+            "finished_tasks": 98,
+            "running_task_instances": 206,
+            "cpu_usage": 0.9940119760479041,
+            "memory_usage": 9.274016434728065e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1350,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 68,
+            "finished_tasks": 103,
+            "running_task_instances": 183,
+            "cpu_usage": 0.9431137724550899,
+            "memory_usage": 7.608162810188682e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1360,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 13,
+            "finished_jobs": 7,
+            "unfinished_tasks": 67,
+            "finished_tasks": 104,
+            "running_task_instances": 185,
+            "cpu_usage": 0.9550898203592815,
+            "memory_usage": 7.691312130499192e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1370,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 12,
+            "finished_jobs": 8,
+            "unfinished_tasks": 66,
+            "finished_tasks": 105,
+            "running_task_instances": 190,
+            "cpu_usage": 0.9880239520958084,
+            "memory_usage": 7.899185431331436e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1380,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 12,
+            "finished_jobs": 8,
+            "unfinished_tasks": 61,
+            "finished_tasks": 110,
+            "running_task_instances": 185,
+            "cpu_usage": 0.9610778443113772,
+            "memory_usage": 7.691312130499192e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1390,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 12,
+            "finished_jobs": 8,
+            "unfinished_tasks": 58,
+            "finished_tasks": 113,
+            "running_task_instances": 200,
+            "cpu_usage": 0.9790419161676647,
+            "memory_usage": 8.314932032981932e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1400,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 11,
+            "finished_jobs": 9,
+            "unfinished_tasks": 57,
+            "finished_tasks": 114,
+            "running_task_instances": 253,
+            "cpu_usage": 0.9491017964071856,
+            "memory_usage": 9.936383601878053e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1410,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 11,
+            "finished_jobs": 9,
+            "unfinished_tasks": 54,
+            "finished_tasks": 117,
+            "running_task_instances": 278,
+            "cpu_usage": 0.9910179640718563,
+            "memory_usage": 0.00010393744686189166,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1420,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 11,
+            "finished_jobs": 9,
+            "unfinished_tasks": 53,
+            "finished_tasks": 118,
+            "running_task_instances": 274,
+            "cpu_usage": 0.9790419161676647,
+            "memory_usage": 9.763315141138334e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1430,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 11,
+            "finished_jobs": 9,
+            "unfinished_tasks": 53,
+            "finished_tasks": 118,
+            "running_task_instances": 319,
+            "cpu_usage": 0.9610778443113772,
+            "memory_usage": 0.00010926927756106754,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1440,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 10,
+            "finished_jobs": 10,
+            "unfinished_tasks": 52,
+            "finished_tasks": 119,
+            "running_task_instances": 330,
+            "cpu_usage": 0.9880239520958084,
+            "memory_usage": 0.00011272387695708648,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1450,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 5,
+            "finished_jobs": 15,
+            "unfinished_tasks": 6,
+            "finished_tasks": 165,
+            "running_task_instances": 131,
+            "cpu_usage": 0.39221556886227543,
+            "memory_usage": 4.459838042021147e-05,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1460,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 2,
+            "finished_jobs": 18,
+            "unfinished_tasks": 2,
+            "finished_tasks": 169,
+            "running_task_instances": 8,
+            "cpu_usage": 0.023952095808383235,
+            "memory_usage": 2.7095209553898223e-06,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1470,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 1,
+            "finished_jobs": 19,
+            "unfinished_tasks": 1,
+            "finished_tasks": 170,
+            "running_task_instances": 1,
+            "cpu_usage": 0.0029940119760479044,
+            "memory_usage": 3.1499574889984125e-07,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1480,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 1,
+            "finished_jobs": 19,
+            "unfinished_tasks": 1,
+            "finished_tasks": 170,
+            "running_task_instances": 1,
+            "cpu_usage": 0.0029940119760479044,
+            "memory_usage": 3.1499574889984125e-07,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1490,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 1,
+            "finished_jobs": 19,
+            "unfinished_tasks": 1,
+            "finished_tasks": 170,
+            "running_task_instances": 1,
+            "cpu_usage": 0.0029940119760479044,
+            "memory_usage": 3.1499574889984125e-07,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1500,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 1,
+            "finished_jobs": 19,
+            "unfinished_tasks": 1,
+            "finished_tasks": 170,
+            "running_task_instances": 1,
+            "cpu_usage": 0.0029940119760479044,
+            "memory_usage": 3.1499574889984125e-07,
+            "disk_usage": 0.0
+        }
+    },
+    {
+        "timestamp": 1510,
+        "cluster_state": {
+            "arrived_jobs": 20,
+            "unfinished_jobs": 0,
+            "finished_jobs": 20,
+            "unfinished_tasks": 0,
+            "finished_tasks": 171,
+            "running_task_instances": 0,
+            "cpu_usage": 0.0,
+            "memory_usage": 0.0,
+            "disk_usage": 0.0
+        }
+    }
+]

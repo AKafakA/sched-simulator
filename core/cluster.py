@@ -58,6 +58,13 @@ class Cluster(object):
         return ls
 
     @property
+    def waiting_task_instances(self):
+        task_instances = []
+        for job in self.jobs:
+            task_instances.extend(job.waiting_task_instances)
+        return task_instances
+
+    @property
     def running_task_instances(self):
         task_instances = []
         for machine in self.machines:
@@ -98,7 +105,7 @@ class Cluster(object):
         return sum([machine.disk_capacity for machine in self.machines])
 
     @property
-    def state(self):
+    def cluster_state(self):
         return {
             'arrived_jobs': len(self.jobs),
             'unfinished_jobs': len(self.unfinished_jobs),
@@ -106,8 +113,11 @@ class Cluster(object):
             'unfinished_tasks': len(self.unfinished_tasks),
             'finished_tasks': len(self.finished_tasks),
             'running_task_instances': len(self.running_task_instances),
-            'machine_states': [machine.state for machine in self.machines],
-            'cpu': self.cpu / self.cpu_capacity,
-            'memory': self.memory / self.memory_capacity,
-            'disk': self.disk / self.disk_capacity,
+            'cpu_usage': (self.cpu_capacity - self.cpu) / self.cpu_capacity,
+            'memory_usage': (self.memory_capacity - self.memory) / self.memory_capacity,
+            'disk_usage': (self.disk_capacity - self.disk) / self.disk_capacity,
         }
+
+    @property
+    def machine_states(self):
+        return [machine.state for machine in self.machines]

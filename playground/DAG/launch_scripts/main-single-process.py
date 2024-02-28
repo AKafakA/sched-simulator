@@ -8,10 +8,10 @@ os.environ["TF_CPP_MIN_LOG_LEVEL"] = '3'
 sys.path.append('..')
 
 from core.machine import MachineConfig
-from playground.DAG.algorithm.heuristics.random_algorithm import RandomAlgorithm
-from playground.DAG.algorithm.heuristics.tetris import Tetris
-from playground.DAG.algorithm.heuristics.first_fit import FirstFitAlgorithm
-from playground.DAG.algorithm.heuristics.max_weight import MaxWeightAlgorithm
+from playground.DAG.algorithm.Baseline.random_algorithm import RandomAlgorithm
+from playground.DAG.algorithm.Baseline.tetris import Tetris
+from playground.DAG.algorithm.Baseline.first_fit import FirstFitAlgorithm
+from playground.DAG.algorithm.Baseline.max_weight import MaxWeightAlgorithm
 
 from playground.DAG.algorithm.DeepJS.DRL import RLAlgorithm
 from playground.DAG.algorithm.DeepJS.agent import Agent
